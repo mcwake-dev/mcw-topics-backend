@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS mcw_votes;
+DROP DATABASE IF EXISTS mcw_votes_test;
+
+CREATE DATABASE mcw_votes;
+CREATE DATABASE mcw_votes_test;
